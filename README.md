@@ -7,7 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Libraries used: 
 
-Basicaly dplyr is used.
+Basicaly dplyr and data.table are used.
 
 File Description:
 
